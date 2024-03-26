@@ -7,8 +7,6 @@ st.set_page_config(
    initial_sidebar_state="expanded",
 )
 
-
-
 st.subheader('Confusion Matrix')
 conf_matrix_col1, conf_matrix_col2 = st.columns(2)
 
